@@ -525,7 +525,13 @@
   width: 120px;      /* adjust as needed */
   height: auto;
 }
+.banner {
+  background: url("../img/Vegetables Revered 1.jpg") center center no-repeat;
+  background-size: cover;
+}
+
 .row.g-2 {
   overflow: visible;
 }
+
 
